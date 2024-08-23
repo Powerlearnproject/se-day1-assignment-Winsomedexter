@@ -29,7 +29,6 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 
 ANSWER:
